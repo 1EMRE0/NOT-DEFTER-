@@ -1,0 +1,40 @@
+﻿@model not_defteri.Models.Not
+
+<div class="container mt-5">
+    <div class="card shadow-sm border-0">
+        <div class="card-header bg-warning text-dark d-flex justify-content-between align-items-center">
+            <h4 class="mb-0"><i class="fa-solid fa-pen-to-square me-2"></i>Notu Düzenle</h4>
+            <a asp-action="Index" class="btn btn-light btn-sm">
+                <i class="fa-solid fa-arrow-left"></i> Geri Dön
+            </a>
+        </div>
+        <div class="card-body">
+            <form asp-action="Duzenle">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                <input type="hidden" asp-for="Id" />
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label fw-semibold"></label>
+                    <input asp-for="Name" class="form-control" placeholder="Başlık girin..." />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Content" class="form-label fw-semibold"></label>
+                    <textarea asp-for="Content" class="form-control" rows="5" placeholder="İçeriği yazın..."></textarea>
+                    <span asp-validation-for="Content" class="text-danger"></span>
+                </div>
+                <div class="d-flex justify-content-end">
+                    <input type="submit" value="Kaydet" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Font Awesome için -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

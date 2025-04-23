@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|c:\\users\\ovcke\\desktop\\not_defteri\\not_defteri\\views\\nots\\detaylar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|solutionrelative:views\\nots\\detaylar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|c:\\users\\ovcke\\desktop\\not_defteri\\not_defteri\\views\\nots\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|solutionrelative:views\\nots\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|c:\\users\\ovcke\\desktop\\not_defteri\\not_defteri\\views\\nots\\olustur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|solutionrelative:views\\nots\\olustur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|c:\\users\\ovcke\\desktop\\not_defteri\\not_defteri\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|c:\\users\\ovcke\\desktop\\not_defteri\\not_defteri\\views\\nots\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|solutionrelative:views\\nots\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|c:\\users\\ovcke\\desktop\\not_defteri\\not_defteri\\views\\nots\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|solutionrelative:views\\nots\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|c:\\users\\ovcke\\desktop\\not_defteri\\not_defteri\\controllers\\notscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|solutionrelative:controllers\\notscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|c:\\users\\ovcke\\desktop\\not_defteri\\not_defteri\\models\\notdefteridbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|solutionrelative:models\\notdefteridbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|c:\\users\\ovcke\\desktop\\not_defteri\\not_defteri\\models\\not.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|solutionrelative:models\\not.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|c:\\users\\ovcke\\desktop\\not_defteri\\not_defteri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|c:\\users\\ovcke\\desktop\\not_defteri\\not_defteri\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|c:\\users\\ovcke\\desktop\\not_defteri\\not_defteri\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|c:\\users\\ovcke\\desktop\\not_defteri\\not_defteri\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84C544A5-AB04-4CC3-9C52-571162E5E439}|not_defteri.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Not.cs",
+              "DocumentMoniker": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Models\\Not.cs",
+              "RelativeDocumentMoniker": "Models\\Not.cs",
+              "ToolTip": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Models\\Not.cs",
+              "RelativeToolTip": "Models\\Not.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:42:26.164Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAmwKsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T15:50:29.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Olustur.cshtml",
+              "DocumentMoniker": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Views\\Nots\\Olustur.cshtml",
+              "RelativeDocumentMoniker": "Views\\Nots\\Olustur.cshtml",
+              "ToolTip": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Views\\Nots\\Olustur.cshtml",
+              "RelativeToolTip": "Views\\Nots\\Olustur.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T15:48:56.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Duzenle.cshtml",
+              "DocumentMoniker": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Views\\Nots\\Duzenle.cshtml",
+              "RelativeDocumentMoniker": "Views\\Nots\\Duzenle.cshtml",
+              "ToolTip": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Views\\Nots\\Duzenle.cshtml",
+              "RelativeToolTip": "Views\\Nots\\Duzenle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T15:17:09.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-22T15:13:33.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:11:05.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T15:02:21.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Views\\Nots\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Nots\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Views\\Nots\\Index.cshtml",
+              "RelativeToolTip": "Views\\Nots\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T14:48:33.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detaylar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Views\\Nots\\Detaylar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Nots\\Detaylar.cshtml",
+              "ToolTip": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Views\\Nots\\Detaylar.cshtml",
+              "RelativeToolTip": "Views\\Nots\\Detaylar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T13:41:55.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotsController.cs",
+              "DocumentMoniker": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Controllers\\NotsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotsController.cs",
+              "ToolTip": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Controllers\\NotsController.cs",
+              "RelativeToolTip": "Controllers\\NotsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T23:50:40.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotDefteriDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Models\\NotDefteriDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\NotDefteriDbContext.cs",
+              "ToolTip": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Models\\NotDefteriDbContext.cs",
+              "RelativeToolTip": "Models\\NotDefteriDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T23:50:33.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sil.cshtml",
+              "DocumentMoniker": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Views\\Nots\\Sil.cshtml",
+              "RelativeDocumentMoniker": "Views\\Nots\\Sil.cshtml",
+              "ToolTip": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Views\\Nots\\Sil.cshtml",
+              "RelativeToolTip": "Views\\Nots\\Sil.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T23:48:46.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ovcke\\Desktop\\not_defteri\\not_defteri\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T22:44:15.687Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
